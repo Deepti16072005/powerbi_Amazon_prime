@@ -108,5 +108,3 @@ Aspiring Data Analyst
 📧 [deeptisuresh05@gmail.com](mailto:deeptisuresh05@gmail.com)
 
 ---
-
-If you want, I can also give you a **🔥 powerful GitHub README template for all your projects (Sales + Amazon + HR + IPL)** so your **GitHub becomes a full Data Analyst portfolio**.
